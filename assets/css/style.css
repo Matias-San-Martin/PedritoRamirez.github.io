@@ -49,9 +49,13 @@ section ul{
   margin-left: 20px;
 }
 footer{
-  height: 90px;
+  width: 100%;
+  height: auto;
   text-align: center;
   line-height: 4rem;
   font-weight: 700; 
   font-size: 19px;
+  border: solid;
+  background-image: url(../img/computer-gamer-keyboard-all-keys-260nw-2211520035.webp);
+  background-position:top;
 }
